@@ -34,7 +34,7 @@ The dataset contains a total of **3,123 MRI brain images** categorized into:
 ---
 
 ## 📌 Course Info
-This project was completed as part of **EEE4416 – [Course Title]**.  
+This project was completed as part of **EEE4416**.  
 
 - **Student Name:** Faiad Faisal Sarthok  
 - **Student ID:** 220021116
